@@ -54,8 +54,8 @@
 		<tbody id="tableBody">
                   <tr>
                     <th scope="row">1</th>
-                    <td>praise Aakanksha</td>
-                    <td>Aakanksha is the best</td> 
+                    <td>title1</td>
+                    <td>Description1</td> 
                     <td><button class="btn btn-sm btn-primary">Delete</button></td> 
                   </tr>
                   
